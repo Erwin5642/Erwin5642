@@ -5,4 +5,4 @@
 ### Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Erwin5642&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Erwin5642&theme=green&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Erwin5642&theme=blue&hide_border=true)<br/>
