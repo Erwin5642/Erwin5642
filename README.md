@@ -1,6 +1,6 @@
 ### 🌙 Hallo, I'm João Vitor! Antunes da Silva 
 - 🌱 I’m currently learning C++ and OpenGL
-- ✨ I'm interested in computational mathematics and scientific commputation
+- ✨ I'm interested in computational mathematics and scientific computation
 - 📫 To reach me joaovitor14mju@gmail.com
 
 ### 🌿Skills 
