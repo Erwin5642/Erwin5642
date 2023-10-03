@@ -8,10 +8,6 @@
 - Mathematics
 - Project Planning
 
-</div>
-<br></br>
-<div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Erwin5642&show_icons=true&theme=midnight-purple" alt="Erwin5642" />
-<br></br>
-<a href="https://github.com/Erwin5642/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin5642&layout=compact&theme=midnight-purple&hide_border=true"/></a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Erwin5642&theme=night-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Erwin5642&theme=night-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin5642&theme=night-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
