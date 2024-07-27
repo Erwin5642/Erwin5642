@@ -33,5 +33,6 @@ Eager to contribute my skills in C programming and mathematics to a dynamic rese
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erwin5642&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin5642&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin5642&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Erwin5642)](https://github.com/anuraghazra/github-readme-stats)
 
