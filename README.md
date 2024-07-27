@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37a6ff&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37a6ff&size=35&center=true&vCenter=true&width=1000&lines=Hallo,+I'm+João+Vitor!;Currently+I'm+on+my+second+year+in+CS;Feel+free+to+explore+my+profile!+:%29)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erwin5642&theme=transparent&hide_border=true)](https://git.io/streak-stats)
@@ -37,6 +35,3 @@ https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-da-silva-70ba79283/
 
 ### 🏳 Career Objective
 Eager to contribute my skills in C programming and mathematics to a dynamic research or software development environment. Seeking opportunities to apply theoretical knowledge to real-world challenges and make meaningful contributions.
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37a6ff&height=120&section=footer"/>
