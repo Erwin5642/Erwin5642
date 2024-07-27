@@ -11,6 +11,12 @@
 - Solid understanding of mathematics
 - Experience in project management
 
+### Languages and tools
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,julia,vscode,unity,git&perline=10" />
+
+### My time programming
+<img src="https://wakatime.com/badge/user/7d8cd8fd-45cb-4f29-b422-5896bb380fe3/project/78d3965b-395c-4d28-bab4-d3d5216708e7.svg" alt="wakatime" />
+
 ### 📚 Academic Projects
 - Developed various applications in C from Text editors and projects on Data base management to other ad-hoc problems
 
