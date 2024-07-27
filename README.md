@@ -26,5 +26,6 @@ Eager to contribute my skills in C programming and mathematics to a dynamic rese
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Erwin5642&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin5642)](https://github.com/anuraghazra/github-readme-stats)
 
 
