@@ -14,14 +14,9 @@
 - Experience in project management
 
 ### Languages and tools
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,julia,vscode,unity,git&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,julia,vscode,unity,git,debian&perline=10" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin5642&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Erwin5642&theme=gotham&hide_border=true)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin5642&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 Academic Projects
 - Developed various applications in C from Text editors and projects on Data base management to other ad-hoc problems
@@ -35,4 +30,7 @@
 ### 🏳 Career Objective
 Eager to contribute my skills in C programming and mathematics to a dynamic research or software development environment. Seeking opportunities to apply theoretical knowledge to real-world challenges and make meaningful contributions.
 
+### GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Erwin5642&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin5642&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ---
