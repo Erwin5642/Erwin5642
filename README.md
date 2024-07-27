@@ -7,15 +7,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin5642&hide_border=true&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 To reach me:
-- Gmail:
-joaovitor14mju@gmail.com
-- Linkedin:
-https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-da-silva-70ba79283/
+
+<div> 
+  <a href = "mailto:joaovitor14mju@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-da-silva-70ba79283" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ### About me
 - I'm from Brazil
 - I speak portuguese and english
 - I’m currently pursuing a Bachelor's degree in Computer Science (Second Year)
-
 
 ### 🌿 Skills 
 - Proficient in the C programming language
