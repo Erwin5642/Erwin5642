@@ -4,9 +4,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin5642&hide_border=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages and tools
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,julia,vscode,unity,git,debian&perline=10" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin5642&hide_border=true&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 To reach me:
