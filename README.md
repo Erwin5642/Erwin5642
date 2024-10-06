@@ -9,7 +9,7 @@
 </a>
 
 ### Languages and Tools I use:
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,julia,python, vscode,unity,git,debian&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,julia,python,vscode,unity,git,debian&perline=10" />
 
 ### 📫 To reach me:
 
