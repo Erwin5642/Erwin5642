@@ -21,7 +21,7 @@
 ### ⭐ About Me
 - I'm from Brazil
 - I speak portuguese and english
-- I’m currently pursuing a Bachelor's degree in Computer Science (Second Year)
+- I’m currently pursuing a Bachelor's degree in Computer Science (Second Year) at the Universidade Estadual de Mato Grosso do Sul (UEMS)
 
 ### 🌿 Skills 
 - Proficient in various programming languages
