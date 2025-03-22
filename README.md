@@ -26,7 +26,7 @@
 ### 🌿 Skills 
 - Proficient in various programming languages
 - Solid understanding of mathematics and aplications on numerical computation and Machine Learning
-- Experience in project management and game development using Lua and C#
+- Experience in project management and game development using Lua, C# and Python
 
 ### 📚 Academic Projects
 - Developed various applications in C and C++ from Text editors and projects on Data base management to other ad-hoc problems
