@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Erwin5642&rank_icon=percentile&hide_border=true&show_icons=true&theme=transparent&" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erwin5642&hide_border=true&theme-transparent&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erwin5642&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### Languages and Tools I use:
