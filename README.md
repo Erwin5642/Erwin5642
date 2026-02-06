@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37a6ff&size=35&center=true&vCenter=true&width=1000&lines=Hallo,+I'm+João+Vitor!;Currently+I'm+on+my+second+year+in+CS;Feel+free+to+explore+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37a6ff&size=35&center=true&vCenter=true&width=1000&lines=Hallo,+I'm+João+Vitor!;Currently+I'm+on+my+final+year+in+CS;Feel+free+to+explore+my+profile!+:%29)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Erwin5642&rank_icon=percentile&hide_border=true&show_icons=true&theme=transparent&" />
