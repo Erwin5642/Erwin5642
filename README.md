@@ -9,7 +9,7 @@
 </a>
 
 ### Languages and Tools I use:
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,julia,python,vscode,unity,git,debian&perline=10" />
+<img src="https://skillicons.dev/icons?i=javascript,tailwind,react,nodejs,mongodb,cpp,cs,lua,julia,python,vscode,unity,git,debian&perline=10" />
 
 ### 📫 To reach me:
 
@@ -26,16 +26,17 @@
 ### ⭐ About Me
 - I'm from Brazil
 - I speak portuguese and english
-- I’m currently pursuing a Bachelor's degree in Computer Science (Second Year) at the Universidade Estadual de Mato Grosso do Sul (UEMS)
+- I’m currently pursuing a Bachelor's degree in Computer Science (Final Year) at the Universidade Estadual de Mato Grosso do Sul (UEMS)
 
 ### 🌿 Skills 
 - Proficient in various programming languages
 - Solid understanding of mathematics and aplications on numerical computation and Machine Learning
-- Experience in project management and game development using Lua, C# and Python
+- Experience in project management, web development with the MERN stack and game development using Lua, C# and Python
 
 ### 📚 Academic Projects
 - Developed various applications in C and C++ from Text editors and projects on Data base management to other ad-hoc problems
-- Currently developing a Turing Machine simulator in virtual reality using Unity and C#
+- Currently developing a Artificial Inteligent Tutor for my Turing Machine simulator in virtual reality using Unity and C#
+- Build web apps using the MERN stack
 - Taught a course on Machine Learning using Julia
 
 ### 🔬 Interests and Specializations
