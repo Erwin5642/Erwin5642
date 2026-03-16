@@ -25,7 +25,7 @@
 
 ---
 
-**Software Engineer | AI & VR Researcher | Tech Lead**
+**Software Engineer | AI & VR Researcher | HPC and Distributed Systems Entusiast**
 
 ---
 
@@ -58,11 +58,6 @@ An immersive Virtual Reality environment for Automata Theory.
 * **The Innovation:** Developed an **Embodied AI Agent** using a hybrid architecture of **LLMs** and **Wit.ai (Meta)** for intent classification.
 * **The Impact:** Optimized API costs and latency while providing context-aware pedagogical feedback.
 * **Stack:** Unity, C#, Python (FastAPI), NLU.
-
-#### 👥 [Tech Lead - Large Scale Project](link-para-o-repo)
-* Leading a team of **20 developers**, managing software architecture, code reviews, and agile workflows.
-* Bridging the gap between project requirements and high-quality technical execution.
-
 ---
 
 *"Eager to apply theoretical rigor to real-world challenges in AI, Scientific Computing, and Fullstack Engineering."*
