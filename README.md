@@ -9,7 +9,7 @@
 </a>
 
 ### Languages and Tools I use:
-<img src="https://skillicons.dev/icons?i=javascript,tailwind,react,nodejs,mongodb,cpp,cs,lua,julia,python,vscode,unity,git,debian&perline=10" />
+<img src="https://skillicons.dev/icons?i=javascript,html,tailwind,react,nodejs,mongodb,python,julia,haskell,cpp,c,cs,unity,lua,git,nix&perline=10" />
 
 ### 📫 To reach me:
 
@@ -20,30 +20,49 @@
 
 ### 💻 My Portifolio
 <div >
-  <a href = "https://erwin5642.github.io">WebSite</a>
+  <a href = "https://erwin5642.github.io">Personal WebSite</a>
 </div>
 
-### ⭐ About Me
-- I'm from Brazil
-- I speak portuguese and english
-- I’m currently pursuing a Bachelor's degree in Computer Science (Final Year) at the Universidade Estadual de Mato Grosso do Sul (UEMS)
+---
 
-### 🌿 Skills 
-- Proficient in various programming languages
-- Solid understanding of mathematics and aplications on numerical computation and Machine Learning
-- Experience in project management, web development with the MERN stack and game development using Lua, C# and Python
+**Software Engineer | AI & VR Researcher | Tech Lead**
 
-### 📚 Academic Projects
-- Developed various applications in C and C++ from Text editors and projects on Data base management to other ad-hoc problems
-- Currently developing a Artificial Inteligent Tutor for my Turing Machine simulator in virtual reality using Unity and C#
-- Build web apps using the MERN stack
-- Taught a course on Machine Learning using Julia
+---
 
-### 🔬 Interests and Specializations
-- Strong interest in computational mathematics and scientific computation and its real-world implications
+### 🎓 About Me
+- 🇧🇷 Based in Brazil.
+- 🎓 **Final Year Computer Science Student** at the Universidade Estadual de Mato Grosso do Sul (UEMS).
+- 🧠 **Academic Excellence:** Former Teaching Assistant in **Differential & Integral Calculus II** and **Discrete Mathematics**.
+- 🏫 **Technical Educator:** Taught courses in **Machine Learning (Julia)** and **Game Development (Pygame)**.
 
-### 💻 Extracurricular Activities
-- Contributed to open-source projects demonstrating collaborative coding skills
+---
 
-### 🏳 Career Objective
-Eager to contribute my skills in programming and mathematics to a dynamic research or software development environment. Seeking opportunities to apply theoretical knowledge to real-world challenges and make meaningful contributions to the fields of science and technology.
+### 🛠️ Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C#, JavaScript, Julia, C/C++, Haskell |
+| **AI & Data Science** | Generative AI (LLMs), Machine Learning, NLU (Wit.ai), NumPy, Pandas |
+| **Backend & Tools** | FastAPI, Node.js, Express, Meteor, REST APIs, Git, Docker, Nix |
+| **Frontend** | React.js, HTML, TailwindCSS |
+| **Game Dev** | Unity (VR), Pygame |
+| **Data Bases** | SqlLite, MongoDB, MySql |
+| **Mathematical Core** | Scientific Computing, Numerical Analysis, Computational Logic |
+
+---
+
+### 🔬 Featured Projects
+
+#### 🤖 [Intelligent VR Tutor & Turing Simulator](link-para-o-repo)
+An immersive Virtual Reality environment for Automata Theory.
+* **The Innovation:** Developed an **Embodied AI Agent** using a hybrid architecture of **LLMs** and **Wit.ai (Meta)** for intent classification.
+* **The Impact:** Optimized API costs and latency while providing context-aware pedagogical feedback.
+* **Stack:** Unity, C#, Python (FastAPI), NLU.
+
+#### 👥 [Tech Lead - Large Scale Project](link-para-o-repo)
+* Leading a team of **20 developers**, managing software architecture, code reviews, and agile workflows.
+* Bridging the gap between project requirements and high-quality technical execution.
+
+---
+
+*"Eager to apply theoretical rigor to real-world challenges in AI, Scientific Computing, and Fullstack Engineering."*
