@@ -25,7 +25,7 @@
 
 ---
 
-**Software Engineer | AI & VR Researcher | HPC and Distributed Systems Enthusiast**
+**Software Engineer | AI & VR Researcher | Fullstack Developer | HPC and Distributed Systems Enthusiast**
 
 ---
 
