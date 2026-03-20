@@ -7,6 +7,14 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Erwin5642&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
+<div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Erwin5642&theme=transparent&hide_border=true&layout=compact&card_width=320" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erwin5642&theme=transparent&layout=compact" />
+  </a>
+</div>
 
 ### Languages and Tools I use:
 <img src="https://skillicons.dev/icons?i=javascript,html,tailwind,react,nodejs,mongodb,python,julia,haskell,cpp,c,cs,unity,lua,git,nix&perline=10" />
